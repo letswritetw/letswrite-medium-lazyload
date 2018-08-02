@@ -41,6 +41,22 @@ h1 {
 h2 {
   font-size: 24px; }
 
+.info {
+  margin-bottom: 50px; }
+  .info ul {
+    margin-bottom: 30px;
+    padding-left: 40px;
+    list-style: disc; }
+  .info li {
+    line-height: 1.5; }
+  .info p {
+    margin-bottom: 12px; }
+  .info a {
+    text-decoration: none;
+    color: #00BAFF; }
+    .info a:hover {
+      text-decoration: underline; }
+
 .lazy-image {
   text-align: center; }
   .lazy-image img {
