@@ -10,4 +10,4 @@
 ---
 
 ## Demo
-- [像Medium的漸近式圖片加載](https://auguston.github.io/letswrite-lazy-load/)
+- [像Medium的漸近式圖片加載](https://auguston.github.io/letswrite-medium-lazyload/)
