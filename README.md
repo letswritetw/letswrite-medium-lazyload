@@ -1,5 +1,5 @@
 ## 說明文章
-- [像Medium的漸近式圖片加載](https://letswrite.tw/medium-lazyload/)
+- [像Medium的漸近式圖片加載](https://www.letswrite.tw/medium-lazyload/)
 
 ---
 
